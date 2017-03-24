@@ -7,10 +7,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Opdracht_3 {
+namespace WebApplication1 {
     
     
-    public partial class Kalender {
+    public partial class Opdracht3 {
         
         /// <summary>
         /// form1 control.
@@ -58,13 +58,13 @@ namespace Opdracht_3 {
         protected global::System.Web.UI.WebControls.Label lbl3;
         
         /// <summary>
-        /// Label1 control.
+        /// lbl4 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label1;
+        protected global::System.Web.UI.WebControls.Label lbl4;
         
         /// <summary>
         /// btnLeeftijd control.

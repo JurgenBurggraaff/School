@@ -9,12 +9,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{EFD5F27B-4E53-4733-AA17-BEE3B36589F5}</ProjectGuid>
+    <ProjectGuid>{EC886889-25FE-44E3-B9E5-DE0C677A4537}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Opdracht_3</RootNamespace>
-    <AssemblyName>Opdracht 3</AssemblyName>
+    <RootNamespace>WebApplication1</RootNamespace>
+    <AssemblyName>WebApplication1</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
@@ -106,16 +106,16 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Kalender.aspx" />
+    <Content Include="Opdracht3.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Kalender.aspx.cs">
-      <DependentUpon>Kalender.aspx</DependentUpon>
+    <Compile Include="Opdracht3.aspx.cs">
+      <DependentUpon>Opdracht3.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Kalender.aspx.designer.cs">
-      <DependentUpon>Kalender.aspx</DependentUpon>
+    <Compile Include="Opdracht3.aspx.designer.cs">
+      <DependentUpon>Opdracht3.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -132,9 +132,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>16747</DevelopmentServerPort>
+          <DevelopmentServerPort>48381</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:16747/</IISUrl>
+          <IISUrl>http://localhost:48381/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
